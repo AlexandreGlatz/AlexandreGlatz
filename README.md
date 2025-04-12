@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Alexandre, Technical Artist feel free to browse my repossitories ! 
 
 # 💫 About Me:
 🔭 I am Currently working on I cast fireball<br>📕 Studying at Quest Education Group<br>🎆 Technical Artist<br>🌌Graphics Developer
