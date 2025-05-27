@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Alexandre, Technical Artist
 
 # 💫 About Me:
-🔭 I am Currently working on I cast fireball<br>📕 Studying at Quest Education Group<br>🎆 Technical Artist<br>🌌Graphics Developer
+🔭 I am Currently working on I cast Quack IDE<br>📕 Studying at Quest Education Group<br>🎆 Technical Artist<br>🌌Graphics Developer
 
 
 ## 🌐 Socials:
