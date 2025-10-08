@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Alexandre, Technical Artist
 
 # 💫 About Me:
-🔭 I am Currently working on Vulkan<br>📕 Studying at Quest Education Group<br>🎆 Technical Artist<br>🌌 Graphics Developer
+🔭 I am Currently working on Vulkan<br>📕 Studying at Quest Education Group<br>🌌 Graphics Developer<br>🎆 Technical Artist
 
 
 ## 🌐 Socials:
